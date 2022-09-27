@@ -1,0 +1,20 @@
+.header {
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+div a {
+    color: white;
+    font-size: 17px;
+    text-decoration: none;
+    margin-left: 32px;
+}
+
+div a:hover {
+    color: orange;
+}
