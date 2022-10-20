@@ -18,3 +18,7 @@ div a {
 div a:hover {
     color: orange;
 }
+
+.btn-logOut {
+    margin-left: 10px;
+}
